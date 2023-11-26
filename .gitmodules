@@ -5,6 +5,9 @@
 [submodule "agvgd"]
 	path = agvgd
 	url = https://github.com/maialab/agvgd
+[submodule "batsch"]
+	path = batsch
+	url = https://github.com/ramiromagno/batsch
 [submodule "ensemblr"]
 	path = ensemblr
 	url = https://github.com/ramiromagno/ensemblr
@@ -17,6 +20,9 @@
 [submodule "grantham"]
 	path = grantham
 	url = https://github.com/maialab/grantham
+[submodule "guescini"]
+	path = guescini
+	url = https://github.com/ramiromagno/guescini
 [submodule "gwasrapidd"]
 	path = gwasrapidd
 	url = https://github.com/ramiromagno/gwasrapidd
@@ -26,6 +32,15 @@
 [submodule "quincunx"]
 	path = quincunx
 	url = https://github.com/ramiromagno/quincunx
+[submodule "ruijter"]
+	path = ruijter
+	url = https://github.com/ramiromagno/ruijter
+[submodule "rutledge"]
+	path = rutledge
+	url = https://github.com/ramiromagno/rutledge
+[submodule "vermeulen"]
+	path = vermeulen
+	url = https://github.com/ramiromagno/vermeulen
 [submodule "wig"]
 	path = wig
 	url = https://github.com/ramiromagno/wig
