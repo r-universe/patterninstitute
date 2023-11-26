@@ -1,4 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/patterninstitute/universe
 	branch = HEAD
+[submodule "agvgd"]
+	path = agvgd
+	url = https://github.com/maialab/agvgd
+[submodule "ensemblr"]
+	path = ensemblr
+	url = https://github.com/ramiromagno/ensemblr
+[submodule "eunis.habitats"]
+	path = eunis.habitats
+	url = https://github.com/ramiromagno/eunis.habitats
+[submodule "geisha"]
+	path = geisha
+	url = https://github.com/ramiromagno/geisha
+[submodule "grantham"]
+	path = grantham
+	url = https://github.com/maialab/grantham
+[submodule "gwasrapidd"]
+	path = gwasrapidd
+	url = https://github.com/ramiromagno/gwasrapidd
+[submodule "protean"]
+	path = protean
+	url = https://github.com/maialab/protean
+[submodule "quincunx"]
+	path = quincunx
+	url = https://github.com/ramiromagno/quincunx
+[submodule "wig"]
+	path = wig
+	url = https://github.com/ramiromagno/wig
