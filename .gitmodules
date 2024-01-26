@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/patterninstitute/universe
+	url = https://github.com/patterninstitute/patterninstitute.r-universe.dev
 	branch = HEAD
 [submodule "agvgd"]
 	path = agvgd
