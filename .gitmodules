@@ -8,6 +8,9 @@
 [submodule "batsch"]
 	path = batsch
 	url = https://github.com/ramiromagno/batsch
+[submodule "dataset.json.examples"]
+	path = dataset.json.examples
+	url = https://github.com/ramiromagno/dataset.json.examples
 [submodule "ensemblr"]
 	path = ensemblr
 	url = https://github.com/ramiromagno/ensemblr
